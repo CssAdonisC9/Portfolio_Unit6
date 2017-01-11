@@ -1,11 +1,11 @@
     header {
       text-align: center;
-      background: url("images/banner.jpg");
+      background: url("http://i.imgur.com/xEvh9yq.gif");
       background-size: cover;
       color: white;
     }
     .nav {
-      color: white;
+      color: red;
     }
     h1 {
       font-size: 70px;
